@@ -163,12 +163,12 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                            url=f"https://t.me/OpusTechz")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                ],
                [
                     InlineKeyboardButton(
                             text="𝚄𝙿𝙳𝙰𝚃𝙴𝚂",
-                            url=f"https://t.me/MWUpdatez")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                                 
                 ]
             ]
@@ -207,12 +207,12 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                            url=f"https://t.me/OpusTechz")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                ],
                [
                     InlineKeyboardButton(
                             text="𝚄𝙿𝙳𝙰𝚃𝙴𝚂",
-                            url=f"https://t.me/MWUpdatez")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                                 
                 ]
             ]
@@ -220,7 +220,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/932ae4696572ff9a5649a.jpg"
+            thumb_name = "https://te.legra.ph/file/da79e0a48eaa9c65e7f34.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -228,12 +228,12 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                            url=f"https://t.me/OpusTechz")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                ],
                [
                     InlineKeyboardButton(
                             text="𝚄𝙿𝙳𝙰𝚃𝙴𝚂",
-                            url=f"https://t.me/MWUpdatez")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                                 
                 ]
             ]
@@ -287,12 +287,12 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                            url=f"https://t.me/OpusTechz")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                ],
                [
                     InlineKeyboardButton(
                             text="𝚄𝙿𝙳𝙰𝚃𝙴𝚂",
-                            url=f"https://t.me/MWUpdatez")
+                            url=f"https://t.me/NJ_AJ_WORLD")
                                 
                 ]
             ]
